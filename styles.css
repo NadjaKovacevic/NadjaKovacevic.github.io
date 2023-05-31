@@ -1,0 +1,215 @@
+body {
+  background-color: lightblue;
+}
+
+
+/* Naslov */
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+/* Glavni sadržaj */
+#glavni-sadrzaj-section {
+  text-align: center;
+}
+
+.naslov {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.sadrzaj {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+/* Stavke */
+.stavke {
+  text-align: center;
+}
+
+.stavka {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #333;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.stavka:hover {
+  background-color: #ccc;
+}
+
+/* Podnožje */
+footer {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.podnozje {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #666;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+.caption {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.slika {
+  width: 200px;
+  height: auto;
+}
+
+.stavke {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.stavka {
+  margin: 0 10px;
+  text-align: center;
+}
+
+/* Naslov */
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+/* Glavni sadržaj */
+#glavni-sadrzaj-section {
+  text-align: center;
+}
+
+.naslov {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.sadrzaj {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+/* Stavke */
+.pocetna-stavka {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: green;
+}
+
+/* Podnožje */
+footer {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.podnozje {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #666;
+}
+
+/* Naslov */
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+/* Glavni sadržaj */
+#glavni-sadrzaj-section {
+  text-align: center;
+}
+
+.naslov {
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.sadrzaj {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+/* Stavke */
+.pocetna-stavka {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: green;
+}
+
+/* Podnožje */
+footer {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.podnozje {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #666;
+}
